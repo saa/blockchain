@@ -1,0 +1,5 @@
+:name "blockchain_emacs"
+:node-sname "blockchain-emacs"
+:lib-dirs '("deps" "_build/default/lib")
+:app-include-dirs '("include")
+:xref-error-whitelist '("lager:*")
