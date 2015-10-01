@@ -8,6 +8,7 @@
     inets,
     ssl
    ]},
+  {included_applications, [jsx]},
   {env,[]},
   {modules, []},
 
